@@ -1,0 +1,19 @@
+/* 
+This file contains the styles of the about us page of the application.
+
+Authors : Nishmitha Bhat, Rachel Anchan, Wilfred Daniel
+*/
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #40e0d0;
+  color: black;
+  text-align: center;
+}
+
+.text {
+  font-size: 18px;
+}

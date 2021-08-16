@@ -1,0 +1,10 @@
+/* 
+This file contains the styles of the header of the application i.e. the styles for the naigation bar.
+
+Authors : Nishmitha Bhat, Rachel Anchan, Wilfred Daniel
+*/
+
+.navbar-light {
+  background-color: #40e0d0;
+  padding-bottom: 1em;
+}

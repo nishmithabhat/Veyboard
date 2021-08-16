@@ -1,0 +1,22 @@
+/* 
+This file contains the styles of the homepage of the application.
+
+Authors : Nishmitha Bhat, Rachel Anchan, Wilfred Daniel
+*/
+
+font {
+  font-family: monospace;
+  text-align: center;
+  font-size: 100px;
+  color: rgb(255, 255, 255);
+  background-color: none;
+  text-shadow: rgb(255, 250, 250) 2px 2px 2px;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 250px;
+  left: 16px;
+  font-size: 18px;
+  padding: 0em;
+}

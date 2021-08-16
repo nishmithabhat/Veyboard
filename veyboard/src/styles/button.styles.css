@@ -1,0 +1,45 @@
+/* 
+This file contains the styles of the buttons of the keyboard functionality of the application.
+
+Authors : Nishmitha Bhat, Rachel Anchan, Wilfred Daniel
+*/
+
+.btn {
+  width: 90px;
+  background-color: #000000;
+  color: #06f1da;
+  margin-bottom: 1em;
+  border-color: darkblue;
+
+  position: relative;
+  top: -6px;
+  border: 0;
+  transition: all 40ms linear;
+  margin-right: 18px;
+}
+.btn3d:active:focus,
+.btn3d:focus:hover,
+.btn3d:focus {
+  outline-style: none;
+  outline: medium none;
+}
+
+.btn3d:active,
+.btn3d.active {
+  top: 2px;
+}
+
+.btn3d.btn-white {
+  color: #08daff;
+  box-shadow: 0 0 0 1px #ebebeb inset, 0 0 0 2px rgb(12, 185, 238) inset,
+    0 8px 0 0 #06d8fd, 0 8px 8px 1px rgba(0, 0, 0, 0.2);
+  background-color: #000000;
+}
+
+.btn3d.btn-white:active,
+.btn3d.btn-white.active {
+  color: #666666;
+  box-shadow: 0 0 0 1px #ebebeb inset, 0 0 0 1px rgb(3, 233, 250) inset,
+    0 1px 3px 1px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
