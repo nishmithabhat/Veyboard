@@ -69,4 +69,27 @@ The user provides voice input to the system which is then translated into text. 
 This part of the code is responsible for the Speech-to-Text feature of the project. Firstly, it accepts the user input as speech or words spoken into the microphone, converts it into an electrical signal, then compares it with the phonemes. It makes use of the pyaudio and speech_recognition modules in python. Here, Google’s speech is directly used to help with understanding part of the signal, i.e. what the user says.
 Using the phonemes, it understands the words and tries to offer the closest response to what the user might have said.
 
+## Wireframes
+### Homepage wireframe (Screen 1)
+![Homepage wireframe](wireframe1.png)
+
+### Keyboard wireframe (Screen 2)
+![ Keyboard wireframe](wireframe2.png)
+
+### Speech-to-text wireframe (Screen 3)
+![Speech-to-text  wireframe](wireframe3.png)
+
+### Language Translation wireframe (Screen 4)
+![Language Translation wireframe](wireframe4.png)
+
+
+
+## System Design
+### System Flowcharts
+- #### Flowchart for Virtual keyboard![Flow chart for virtual keyboard diagram](flowchart_vk.png)
+
+- #### Flowchart for Language Translation![Flow chart for language translation diagram](flowchart_lt.png)
+
+
+- #### Flowchart for Speech To Text![Flow chart for speech to text diagram](flowchart_stt.png)
 
