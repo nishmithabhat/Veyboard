@@ -71,16 +71,16 @@ Using the phonemes, it understands the words and tries to offer the closest resp
 
 ## Wireframes
 ### Homepage wireframe (Screen 1)
-    ![Homepage wireframe](wireframe1.png)
+![Homepage wireframe](wireframe1.png)
 
 ### Keyboard wireframe (Screen 2)
-    ![ Keyboard wireframe](wireframe2.png)
+![ Keyboard wireframe](wireframe2.png)
 
 ### Speech-to-text wireframe (Screen 3)
-    ![Speech-to-text  wireframe](wireframe3.png)
+![Speech-to-text  wireframe](wireframe3.png)
 
 ### Language Translation wireframe (Screen 4)
-    ![Language Translation wireframe](wireframe4.png)
+![Language Translation wireframe](wireframe4.png)
 
 
 
